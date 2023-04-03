@@ -17,6 +17,17 @@ You will like those projects!
 ##### h5 Heading
 ###### h6 Heading
 
+## Code
+Inline `code snippet` is function
+
+```c++
+#include <iostream>
+int main()
+{
+    std::cout << "Hello, world!" << std::endl;
+    return 0;
+}
+```
 
 ## Horizontal Rules
 
@@ -244,3 +255,5 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 *here be dragons*
 :::
 
+# Math
+$$x = sin(e^y) $$

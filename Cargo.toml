@@ -8,5 +8,6 @@ edition = "2021"
 [dependencies]
 clap = { version = "4.1.6", features = ["derive"] }
 comrak = "0.16.0"
+markdown = "0.3.0"
 tokio = { version = "1", features = ["full"] }
 warp = "0.3"
